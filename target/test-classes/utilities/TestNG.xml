@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+<listeners>
+<listener class-name="utilities.MyListener"/>
+</listeners>
+<test name="Listeners_program">
+<classes>
+<class name="utilities.ItestListenersDemo"></class>
+</classes>
+</test>
+</suite>
